@@ -1,9 +1,6 @@
-﻿using StatisticsCalculator.Data.Models;
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
-
 
 namespace StatisticsCalculator.Data.Models
 {
