@@ -12,10 +12,10 @@ namespace StatisticsCalculator.API.Tests.Controllers
         public void Index()
         {
             // Arrange
-            HomeController controller = new HomeController();
+            ValuesController controller = new ValuesController();
 
             // Act
-            ViewResult result = controller.Index() as ViewResult;
+            ViewResult result = controller.Get() as ViewResult;
 
             // Assert
             Assert.IsNotNull(result);
