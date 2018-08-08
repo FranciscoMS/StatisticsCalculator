@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsCalculator.API", "StatisticsCalculator.API\StatisticsCalculator.API.csproj", "{5B0905B0-54D0-4110-BAB5-52A0996D5185}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsCalculator.API", "StatisticsCalculator.API\StatisticsCalculator.API.csproj", "{EC17DB22-3717-4F94-A83F-C0DB58D31225}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsCalculator.API.Tests", "StatisticsCalculator.API.Tests\StatisticsCalculator.API.Tests.csproj", "{417395D0-A8FD-459F-B4D5-E1053EE1D2EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsCalculator.API.Tests", "StatisticsCalculator.API.Tests\StatisticsCalculator.API.Tests.csproj", "{A0B4787F-28CE-4C05-923E-E2688DF0D849}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsCalculator.Common", "StatisticsCalculator.Common\StatisticsCalculator.Common.csproj", "{41C762D7-17B2-4CF6-9785-863C2CF56832}"
 EndProject
@@ -21,14 +21,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B0905B0-54D0-4110-BAB5-52A0996D5185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B0905B0-54D0-4110-BAB5-52A0996D5185}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B0905B0-54D0-4110-BAB5-52A0996D5185}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B0905B0-54D0-4110-BAB5-52A0996D5185}.Release|Any CPU.Build.0 = Release|Any CPU
-		{417395D0-A8FD-459F-B4D5-E1053EE1D2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{417395D0-A8FD-459F-B4D5-E1053EE1D2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{417395D0-A8FD-459F-B4D5-E1053EE1D2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{417395D0-A8FD-459F-B4D5-E1053EE1D2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC17DB22-3717-4F94-A83F-C0DB58D31225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC17DB22-3717-4F94-A83F-C0DB58D31225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC17DB22-3717-4F94-A83F-C0DB58D31225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC17DB22-3717-4F94-A83F-C0DB58D31225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B4787F-28CE-4C05-923E-E2688DF0D849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B4787F-28CE-4C05-923E-E2688DF0D849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B4787F-28CE-4C05-923E-E2688DF0D849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B4787F-28CE-4C05-923E-E2688DF0D849}.Release|Any CPU.Build.0 = Release|Any CPU
 		{41C762D7-17B2-4CF6-9785-863C2CF56832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{41C762D7-17B2-4CF6-9785-863C2CF56832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41C762D7-17B2-4CF6-9785-863C2CF56832}.Release|Any CPU.ActiveCfg = Release|Any CPU
